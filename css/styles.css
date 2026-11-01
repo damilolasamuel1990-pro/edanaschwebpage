@@ -440,7 +440,7 @@ section[id] {
   color: #fff;
   background:
     linear-gradient(100deg, rgba(8, 24, 56, 0.94) 0%, rgba(10, 31, 69, 0.8) 42%, rgba(10, 31, 69, 0.2) 100%),
-    url("../images/hero.jpg") center / cover no-repeat;
+    url("../hero.jpg") center / cover no-repeat;
 }
 .hero__copy {
   max-width: 620px;
